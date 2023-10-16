@@ -1,0 +1,27 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "Fullstack course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Motimoukari/FullStack.git"
+  },
+  "author": "Jesse Särkkinen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Motimoukari/FullStack/issues"
+  },
+  "homepage": "https://github.com/Motimoukari/FullStack#readme",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
